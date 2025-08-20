@@ -1,0 +1,1 @@
+<div className='container py-10'><h1 className='text-3xl font-bold'>Acordo de Processamento de Dados (DPA)</h1><p className='opacity-80 mt-2 text-sm'>Responsabilidades, operadores, subprocessadores. Placeholder.</p></div>
