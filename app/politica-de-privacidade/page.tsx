@@ -1,11 +1,9 @@
-export default function Page() {
+export default function PoliticaDePrivacidade() {
   return (
     <div className='container py-10'>
       <h1 className='text-3xl font-bold'>Política de Privacidade</h1>
-      <p className='opacity-80 mt-2 text-sm'>
-        Informações sobre coleta, uso, armazenamento e compartilhamento de dados
-        pessoais. Placeholder.
-      </p>
+      <p className='opacity-80 mt-2 text-sm'>LGPD: descreva bases legais, direitos dos titulares, retenção e segurança. Este é um placeholder.</p>
     </div>
   );
 }
+
