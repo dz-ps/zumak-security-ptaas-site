@@ -5,7 +5,7 @@ export default function Navbar(){
     <header className="sticky top-0 z-40 border-b border-white/10 bg-neutral-950/80 backdrop-blur">
       <div className="container flex items-center justify-between py-3">
         <Link href="/" className="flex items-center gap-2 no-underline">
-          <img src="/logo.svg" alt="Zumak Security" width={120} height={32} />
+          <img src="/logo.png" alt="Zumak Security" width={120} height={32} />
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm">
           <Link href="/servicos" className="hover:underline">Serviços</Link>
