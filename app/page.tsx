@@ -17,7 +17,7 @@ export default function Page(){
     "@type":"Organization",
     "name":"Zumak Security",
     "url": process.env.NEXT_PUBLIC_BASE_URL || "http://localhost:3000",
-    "logo": "/logo.svg",
+    "logo": "/logo.png",
     "sameAs": []
   }
   const faqLd = {
